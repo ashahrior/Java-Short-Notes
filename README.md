@@ -5,9 +5,9 @@
 >
 
 ## Table of Contents
-**[Introduction](#Introduction)**<br>
-**[Syntax](#Syntax)**<br>
-**[Data types, Operators and Expressions](#data-types)**<br>
+**[Introduction](#introduction)**<br>
+**[Syntax](#syntax)**<br>
+**[Data types](#data-types)**<br>
 
 ## Intrdocution
 * Any java code is written for a particular **Java Virtual Machine**. 
@@ -77,7 +77,7 @@ Example:
 	* Specific importing - Fully Qualified Name
 	* Wildcard importing - using '*' sign
 
-## Data type, Operator and Expression
+## Data types
 * Four types of variables in java-
 	* Instance variables (Non-static field)
 	* Class variable (Static field)

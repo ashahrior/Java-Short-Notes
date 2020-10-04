@@ -4,7 +4,7 @@
 > Written with [StackEdit](https://stackedit.io/).
 >
 
-## Table of Contents
+# Table of Contents
 **[Introduction](#Introduction)**<br>
 **[Syntax](#Syntax)**<br>
 

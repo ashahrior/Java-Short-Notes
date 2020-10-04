@@ -1,9 +1,14 @@
-# Java-Short-Notes
-Just for short reminders of the basic tics and toes of Java basics.
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 >
-<b>Intrdocution</b>
+
+## Table of Contents
+**[Introduction](#Introduction)**<br>
+**[Syntax](#Syntax)**<br>
+
+## Intrdocution
 * Any java code is written for a particular **Java Virtual Machine**. 
 * The JVM **compiles** the code into intermediate code called **Bytecode**. Only JVM can understand the bytecode. 
 * JVM **interprets** the bytecode into machine code during runtime. For this interpretation JVM uses **Just In Time (JIT)** compiler.
@@ -19,7 +24,7 @@ Just for short reminders of the basic tics and toes of Java basics.
 	* JavaFX
 * **Class loader** - A special class as a part of java runtime system. It loads necessary java compiled classes during runtime.
 
-<b>Syntax</b>
+## Syntax
 * A program must contain - **function** and **data**
 * Package name always written in all lowercase letters.
 * A java **method** has six parts-

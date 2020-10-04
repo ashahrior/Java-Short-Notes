@@ -40,10 +40,10 @@ Example:
 		public String concat(String val1, String val2) throws IllegalArgumentException
 		{
 			if (val1==null) {
-				throw new IllegalArgumentException("val1 is null");
+				throw new IllegalArgumentException("val-1 is null");
 			}
 			if (val2==null) {
-				throw new IllegalArgumentException("val1 is null");
+				throw new IllegalArgumentException("val-2 is null");
 			}
 			return val1+val2;
 		}

@@ -92,6 +92,7 @@ Example:
 		{
 			int d;	\\ local variable
 		}
+	}
 	```
 * Java has two data types-
 	* Primitive types - boolean, byte, short, char, int, long, float, double

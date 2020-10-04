@@ -7,7 +7,7 @@
 ## Table of Contents
 **[Introduction](#Introduction)**<br>
 **[Syntax](#Syntax)**<br>
-**[Data types, Operators and Expressions](#data-type-operator-expression)**<br>
+**[Data types, Operators and Expressions](#data-types)**<br>
 
 ## Intrdocution
 * Any java code is written for a particular **Java Virtual Machine**. 
